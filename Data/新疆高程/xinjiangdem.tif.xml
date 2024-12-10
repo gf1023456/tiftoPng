@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20241030</CreaDate><CreaTime>11352300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.8\ArcToolbox\Toolboxes\Spatial Analyst Tools.tbx\ExtractByMask" Date="20241030" Time="113523">ExtractByMask G:\DEM\DEM\dem_1km.tif G:\a\650000\650000\650000.shp G:\a\xinjiangdem.tif</Process></lineage></DataProperties></Esri></metadata>
